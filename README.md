@@ -12,7 +12,7 @@
 
 ## 🛠️ Projects
 
-### Project 1: [Project Name 1](link-to-repo)
+### Project 1: [Serverless Web Application](link-to-repo)
    Description of the project and your role in it.
 
 ### Project 2: [Project Name 2](link-to-repo)
@@ -20,7 +20,7 @@
 
 ## 📚 Education
 
-- Bachelor of Technology (B.Tech) in [Your Major] - JNTU Kakinada University, 2022
+- Bachelor of Computer Application (BCA) in [Your Major] - JNTU Kakinada University, 2022
 
 ## 🌱 Interests
 
@@ -35,7 +35,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 🌐 Online Presence
 
-- [Personal Blog](link-to-blog): Share your insights and experiences in tech.
+- [DevOps AWS with Python](https://rajivaws.blogspot.com/): Share your insights and experiences in tech.
 - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
 
 ## 🏆 Achievements
