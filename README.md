@@ -28,9 +28,8 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- IG: [rajiv._.1](link-to-ig)
-- FB: [Rajiv Chinthalapati](link-to-fb)
-
+- IG: [rajiv._.1](https://www.instagram.com/?next=%2F)
+- FB: [Rajiv Chinthalapati](https://www.facebook.com/profile.php?id=61554719513196)
 
 ## 🌐 Online Presence
 
