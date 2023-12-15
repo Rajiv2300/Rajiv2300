@@ -15,13 +15,12 @@
 ### Project 1: [Serverless Web Application](link-to-repo)
    Description of the project and your role in it.
 
-### Project 2: [Project Name 2](link-to-repo)
-   Description of the project and your role in it.
 
 ## 📚 Education
 
-- Bachelor of Computer Application (BCA) in [Your Major] - JNTU Kakinada University, 2022
-
+- Bachelor of Computer Application (BCA) in [Computer Science] - KBN College, Vijayawada, 2022
+- Intermediate (MPC) -Narayana Junior College, Vijayawada, 2017
+- SSC -Ravindra Bharathi Public School, Vijayawada, 2015
 ## 🌱 Interests
 
 I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
@@ -29,9 +28,9 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- IG: [Your IG Name](link-to-ig)
-- FB: [Your FB Name](link-to-fb)
-- Twitter: [Your Twitter Handle](link-to-twitter)
+- IG: [rajiv._.1](link-to-ig)
+- FB: [Rajiv Chinthalapati](link-to-fb)
+
 
 ## 🌐 Online Presence
 
